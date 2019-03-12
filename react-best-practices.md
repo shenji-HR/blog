@@ -1,8 +1,10 @@
 # React 最佳实践
 
 ## 事件处理
+
+使用 `handleClick = () => { ... }` 语法定义事件处理函数
 ```JavaScript
-// 正确，但不推荐
+// bad
 class App extends Component {
 
   constructor(props) {
@@ -17,11 +19,11 @@ class App extends Component {
   }
 
   render() {
-    return <div onClick={this.handleClick} />;
+    return <button onClick={this.handleClick} />;
   }
 }
 
-// 正确，但不推荐
+// bad
 class App extends Component {
 
   constructor(props) {
@@ -36,11 +38,23 @@ class App extends Component {
   }
 
   render() {
-    return <div onClick={this.handleClick} />;
+    return <button onClick={this.handleClick} />;
   }
 }
 
-// 推荐
+// good
+class App extends Component {
+
+  handleClick() {
+    console.log('this is', this);
+  }
+
+  render() {
+    return <button onClick={e => this.handleClick(e)} />;
+  }
+}
+
+// best
 class App extends Component {
 
   handleClick = () => {
@@ -48,7 +62,7 @@ class App extends Component {
   }
 
   render() {
-    return <div onClick={this.handleClick} />;
+    return <button onClick={this.handleClick} />;
   }
 }
 ```
