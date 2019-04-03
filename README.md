@@ -1,4 +1,4 @@
-前端
+# 前端
 - HTML
 - CSS
 - JavaScript
@@ -32,10 +32,13 @@
         - Rollup
     - Grunt / Gulp
     - Flow
+    - TypeScript
+    - roadhog
+    - umi
 - 浏览器原理
 - 安全
 
-移动端
+# 移动端
 - iOS Native 开发
     - 苹果开发者账号
     - Objective-C
@@ -46,12 +49,20 @@
     - 支付宝小程序
 - 跨端方案
     - React Native
-        - React Navigation
+        - Networking
+            - Fetch API
+            - XMLHttpRequest API
+            - WebSockets
+                - [源码](https://github.com/facebook/react-native/tree/master/Libraries/WebSocket)
+        - react-navigation
+        - react-native-image-picker
+        - react-native-svg
+        - Ant Design Mobile RN 组件库
     - Flutter
     - Chameleon
     - Taro
 
-网络
+# 网络
 - TCP
 - SSL / TLS
 - HTTP
@@ -61,5 +72,5 @@
     - [RFC6455: The WebSocket Protocol](https://tools.ietf.org/html/rfc6455) | [中文](https://juejin.im/post/5c6b7366e51d45016527d648)
 - XMPP
 
-UI / UX
+# UI / UX
 - Sketch
