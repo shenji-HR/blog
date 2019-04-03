@@ -58,6 +58,8 @@
         - react-native-image-picker
         - react-native-svg
         - Ant Design Mobile RN 组件库
+        - 键盘遮挡
+            - [React Native Keyboard Covering Inputs](https://codeburst.io/react-native-keyboard-covering-inputs-72a9d3072689) by John Tucker
     - Flutter
     - Chameleon
     - Taro
