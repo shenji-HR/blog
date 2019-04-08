@@ -51,10 +51,14 @@
 - 跨端方案
     - React Native
         - Networking
-            - Fetch API
-            - XMLHttpRequest API
+            - XMLHttpRequest (XHR)
+                - [API](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+            - Fetch
+                - [API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
             - WebSockets
-                - [源码](https://github.com/facebook/react-native/tree/master/Libraries/WebSocket)
+                - [API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+                - 源码: [iOS](https://github.com/facebook/react-native/tree/master/Libraries/WebSocket) | [Android](https://github.com/facebook/react-native/tree/master/ReactAndroid/src/main/java/com/facebook/react/modules/websocket)
+            - [Network layer in React Native](https://medium.com/dailyjs/network-layer-in-react-native-eec841f11861) by Kureev Alexey, 2017
         - react-navigation
         - react-native-image-picker
         - react-native-svg
