@@ -3,17 +3,15 @@
 - CSS
 - JavaScript
     - [如何学习 JavaScript]()
+    - Specification
+        - [ES5.1, ECMA-262 Edition 5.1](https://www.ecma-international.org/ecma-262/5.1/)
+        - [ES2015, ECMA-262 6th Edition](https://www.ecma-international.org/ecma-262/6.0/)
+        - [ES2016, ECMA-262 7th Edition](https://www.ecma-international.org/ecma-262/7.0/)
+        - [ES2017, ECMA-262 8th Edition](https://www.ecma-international.org/ecma-262/8.0/)
+        - [ES2018, ECMA-262 9th Edition](https://www.ecma-international.org/ecma-262/9.0/)
+        - ES2019
 - DOM
 - React
-    - [React 教程·基础篇（一）开发环境]()
-    - [React 教程·基础篇（二）Hello World]()
-    - [React 教程·基础篇（三）特性]()
-    - [React 教程·基础篇（四）组件]()
-    - [React 教程·基础篇（五）JSX]()
-    - [React 教程·基础篇（六）组件生命周期]()
-    - [React 教程·基础篇（七）事件]()
-    - [React 教程·进阶篇（一）高阶组件]()
-    - [React 教程·进阶篇（二）理解 Virtual DOM]()
     - [React 最佳实践](react-best-practices.md)
     - Redux
     - Redux Saga
