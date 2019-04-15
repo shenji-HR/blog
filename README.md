@@ -71,6 +71,13 @@
 - TCP
 - SSL / TLS
 - HTTP
+    - HTTP/1.1
+        - [RFC7230: Message Syntax and Routing](https://tools.ietf.org/html/rfc7230)
+        - [RFC7231: Semantics and Content](https://tools.ietf.org/html/rfc7231)
+        - [RFC7232: Conditional Requests](https://tools.ietf.org/html/rfc7232)
+        - [RFC7233: Range Requests](https://tools.ietf.org/html/rfc7233)
+        - [RFC7234: Caching](https://tools.ietf.org/html/rfc7234)
+        - [RFC7235: Authentication](https://tools.ietf.org/html/rfc7235)
     - HTTPS
     - HTTP/2
 - WebSocket
