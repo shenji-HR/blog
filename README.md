@@ -21,6 +21,13 @@
 - Vue
 - 工具链
     - Node.js
+        - path
+        - fs
+        - express
+        - 编写命令行工具必备
+            - [chalk](https://github.com/chalk/chalk)
+            - 命令解析: [commander](https://github.com/tj/commander.js) / [yargs](https://github.com/yargs/yargs)
+            - ...
     - npm / yarn
     - Babel
     - ESLint
@@ -31,7 +38,9 @@
     - Grunt / Gulp
     - Flow
     - TypeScript
+    - create-react-app
     - roadhog
+        - [roadhog 工作原理](how-roadhog-works.md)
     - umi
 - 浏览器原理
     - 【必读】[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) by Tali Garsiel & Paul Irish, 2011
