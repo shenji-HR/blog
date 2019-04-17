@@ -23,6 +23,7 @@
     - Node.js
         - path
         - fs
+        - child_process
         - express
         - 编写命令行工具必备
             - [chalk](https://github.com/chalk/chalk)
