@@ -1,15 +1,17 @@
 # 前端
+- [HR365 前端开发指南](hr365-fe-dev-guides/index.md)
 - HTML
 - CSS
 - JavaScript
-    - [如何学习 JavaScript]()
-    - Specification
+    - [如何学习 JavaScript](how-to-learn-js)
+    - 标准
         - [ES5.1, ECMA-262 Edition 5.1](https://www.ecma-international.org/ecma-262/5.1/)
         - [ES2015, ECMA-262 6th Edition](https://www.ecma-international.org/ecma-262/6.0/)
         - [ES2016, ECMA-262 7th Edition](https://www.ecma-international.org/ecma-262/7.0/)
         - [ES2017, ECMA-262 8th Edition](https://www.ecma-international.org/ecma-262/8.0/)
         - [ES2018, ECMA-262 9th Edition](https://www.ecma-international.org/ecma-262/9.0/)
         - ES2019
+    - [JavaScript 运行环境](js-env.md)
 - DOM
 - React
     - [React 最佳实践](react-best-practices.md)
@@ -18,7 +20,6 @@
     - React Router
     - Dva 框架
     - Ant Design 组件库
-- Vue
 - 工具链
     - Node.js
         - path
@@ -42,6 +43,7 @@
     - roadhog
         - [roadhog 工作原理](how-roadhog-works.md)
     - umi
+    - electron
 - 浏览器原理
     - 【必读】[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) by Tali Garsiel & Paul Irish, 2011
 - 安全
