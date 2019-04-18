@@ -24,6 +24,7 @@
     - Node.js
         - path
         - fs
+        - child_process
         - express
         - 编写命令行工具必备
             - [chalk](https://github.com/chalk/chalk)
@@ -94,6 +95,7 @@
 - WebSocket
     - [RFC6455: The WebSocket Protocol](https://tools.ietf.org/html/rfc6455) | [中文](https://juejin.im/post/5c6b7366e51d45016527d648)
     - [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+- OAuth
 - XMPP
 
 # UI / UX
