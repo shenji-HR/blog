@@ -11,7 +11,7 @@
 [官网](https://code.visualstudio.com)下载安装。
 
 安装一些实用插件：
-- ESLint 插件, 源码: [https://github.com/Microsoft/vscode-eslint](https://github.com/Microsoft/vscode-eslint)。安装好后，设置 eslint.autoFixOnSave=true，这样的好处是每次文件保存时都为执行一次 eslint 自动修复，具体的修复规则取决于项目的 eslint 配置，例如开启 [no-var](https://eslint.org/docs/rules/no-var) 规则时，`var` 会被自动修改成 `let`。
+- ESLint 插件, repo: [https://github.com/Microsoft/vscode-eslint](https://github.com/Microsoft/vscode-eslint)。安装好后，设置 eslint.autoFixOnSave=true，这样的好处是每次文件保存时都为执行一次 eslint 自动修复，具体的修复规则取决于项目的 eslint 配置，例如开启 [no-var](https://eslint.org/docs/rules/no-var) 规则时，`var` 会被自动修改成 `let`。
 ![img](../assets/vscode-eslint-config.png)
 - ...
 
