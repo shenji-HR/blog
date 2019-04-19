@@ -1,7 +1,7 @@
 # 开发环境
 
 ## 1. Node.js
-终端执行 `node -v` 如果能打印出版本号说明已经安装，没有安装的到[官网](https://nodejs.org)下载安装最新稳定版。此外，我还建议安装 Node 版本管理器 [nvm](https://github.com/creationix/nvm)。
+终端执行 `node -v` 如果能打印出版本号说明已经安装过了，没有安装的到[官网](https://nodejs.org)下载安装最新稳定版。此外，我还建议安装 Node 版本管理器 [nvm](https://github.com/creationix/nvm)。
 
 ## 2. Yarn
 用来替代 npm，介绍和安装方法见[官网](https://yarnpkg.com/)
