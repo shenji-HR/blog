@@ -1,5 +1,5 @@
 # 前端
-- [HR365 前端开发指南](hr365-fe-dev-guides)
+- [HR365 前端开发指南](hr365-fe-dev-guides/index.md)
 - HTML
 - CSS
 - JavaScript
