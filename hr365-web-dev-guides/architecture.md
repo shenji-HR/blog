@@ -1,6 +1,37 @@
 # 应用架构
 
 ## 1. 技术栈
+- 桌面端（浏览器或 Electron 环境）
+    - UI
+        - [React](https://reactjs.org)
+        - 组件库 [Ant Design](https://ant.design/index-cn)
+        - 路由方案 [react-router](https://github.com/ReactTraining/react-router)
+    - 数据流 
+        - [DvaJS](https://dvajs.com)，封装了 [redux](https://github.com/reduxjs/redux)、[redux-saga](https://github.com/redux-saga/redux-saga) 和 [react-router](https://github.com/ReactTraining/react-router)
+    - 网络 
+        - [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)，浏览器环境调用的其实是 [GitHub's WHATWG Fetch polyfill](https://github.com/github/fetch)
+        - [Strophe.js](http://strophe.im/strophejs/)，基于 WebSocket 实现的 XMPP 库
+    - 构建
+        - [Node.js](https://nodejs.org)，现代前端构建系统的核心
+        - [Babel](https://babeljs.io)，js 编译器，将 ES6+ 转译为 ES5
+        - [ESLint](https://eslint.org)，用于静态语法检查
+        - [webpack](https://webpack.js.org)，打包器，通过构建 [dependency graph](https://webpack.js.org/concepts/dependency-graph/) 将所有 js 源码打包成一个 bundle 文件
+        - [roadhog](https://github.com/sorrycc/roadhog)，可配置 [create-react-app](https://github.com/facebook/create-react-app)，内部基于 [af-webpack](https://github.com/umijs/umi/tree/master/packages/af-webpack)。（注：roadhog 官方已经不再维护，未来我们将迁移至 [UmiJS](https://github.com/umijs/umi)）
+        - [svgr](https://github.com/smooth-code/svgr)，Transform SVGs into React components
+        - [Electron](https://electronjs.org)，用于构建桌面应用。集成了 [Chromium](https://www.chromium.org/Home) 和 [Node.js](https://nodejs.org)，可以简单理解成一种可定制的浏览器，同时允许你调用一些操作系统级的 api，比如 [系统托盘](https://electronjs.org/docs/api/tray)
+- 移动端（iOS 或 Android 环境）
+    - UI
+        - [React Native](http://facebook.github.io/react-native/)
+        - 组件库 [Ant Design Mobile RN](https://rn.mobile.ant.design)
+        - 导航方案 [React Navigation](https://reactnavigation.org)
+        - svg 渲染方案 [react-native-svg](https://github.com/react-native-community/react-native-svg)
+    - 数据流 
+        - [DvaJS](https://dvajs.com)，封装了 [redux](https://github.com/reduxjs/redux)、[redux-saga](https://github.com/redux-saga/redux-saga) 和 [react-router](https://github.com/ReactTraining/react-router)
+    - 网络
+        - React Native 内置 [fetch](http://facebook.github.io/react-native/docs/network#using-fetch)
+    - 构建
+        - 与桌面端一样，依然需要 [Node.js](https://nodejs.org)、[Babel](https://babeljs.io)、[ESLint](https://eslint.org)
+        - [Metro](https://github.com/facebook/metro)，The JavaScript bundler for React Native
 
 ## 2. HR365 前端工程结构
 <img src="../assets/engineering-structure.svg" />
