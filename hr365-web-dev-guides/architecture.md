@@ -3,100 +3,57 @@
 ## 技术栈
 
 ## HR365 前端工程结构
-<table style="width:100%;text-align:left">
-  <tr>
-    <th>工程I</th>
-    <th>工程II</th>
-    <th>描述</th>
-    <th>svn 地址</th>
-  </tr>
-  <tr>
-    <td>hr365-util</td>
-    <td></td>
-    <td>工具库</td>
-    <td><a></a></td>
-  </tr>
-  <tr>
-    <td>hr365-ws-api</td>
-     <td></td>
-    <td>网络接口</td>
-    <td><a></a></td>
-  </tr>
-  <tr>
-    <td>hr365-basic</td>
-    <td></td>
-    <td>桌面版基础控件</td>
-    <td><a></a></td>
-  </tr>
-  <tr>
-    <td rowspan="5">hr365-model</td>
-    <td>hr365-basic-model</td>
-    <td>通用业务</td>
-    <td><a></a></td>
-  </tr>
-  <tr>
-    <td>hr365-hr-model</td>
-    <td>人员管理业务</td>
-    <td><a></a></td>
-  </tr>
-  <tr>
-    <td>hr365-pay-model</td>
-    <td>薪酬管理业务</td>
-    <td><a></a></td>
-  </tr>
-  <tr>
-    <td>hr365-exp-model</td>
-    <td>费用管理业务</td>
-    <td><a></a></td>
-  </tr>
-  <tr>
-    <td>hr365-time-model</td>
-    <td>时间管理业务</td>
-    <td><a></a></td>
-  </tr>
-  <tr>
-    <td>HR-PC</td>
-    <td></td>
-    <td>人力资源管理桌面版</td>
-    <td><a>https://192.168.1.118:1443/svn/hr365/HRCODE/HR/Client/HR-PC</a></td>
-  </tr>
-  <tr>
-    <td>Pay-PC</td>
-    <td></td>
-    <td>薪酬管理桌面版</td>
-    <td><a>https://192.168.1.118:1443/svn/hr365/HRCODE/Payroll/Client/Pay-PC</a></td>
-  </tr>
-  <tr>
-    <td>Exp-PC</td>
-    <td></td>
-    <td>费用管理桌面版</td>
-    <td><a>https://192.168.1.118:1443/svn/hr365/HRCODE/Exp/Client/Exp-PC</a></td>
-  </tr>
-  <tr>
-    <td>Time-PC</td>
-    <td></td>
-    <td>时间管理桌面版</td>
-    <td><a>https://192.168.1.118:1443/svn/hr365/HRCODE/Time/Client/Time-PC</a></td>
-  </tr>
-  <tr>
-    <td>Emp-PC</td>
-    <td></td>
-    <td>员工自助桌面版</td>
-    <td><a>https://192.168.1.118:1443/svn/hr365/HRCODE/Emp/Client/Emp-PC</a></td>
-  </tr>
- <tr>
-    <td>Emp-MB</td>
-    <td></td>
-    <td>员工自助手机版</td>
-    <td><a>https://192.168.1.118:1443/svn/hr365/HRCODE/Emp/Client/Emp-MB</a></td>
-  </tr>
-  <tr>
-    <td>HR-PM</td>
-    <td></td>
-    <td>平台管理</td>
-    <td><a>https://192.168.1.118:1443/svn/hr365/HRCODE/PM/Client/HR-PM</a></td>
-  </tr>
-</table>
-
 #### 工程结构图：
-<img style="width:500px;margin:10px" src="../assets/engineering-structure.svg" />
+<img src="../assets/engineering-structure.svg" />
+
+#### hr365-util
+工具库
+
+#### hr365-ws-api
+网络接口
+
+#### hr365-basic
+桌面版基础控件
+
+#### hr365-model
+每个业务都是一个独立的 npm 包，可以单独发布：
+- hr365-basic-model 通用业务
+- hr365-hr-model 人员管理业务
+- hr365-pay-model 薪酬管理业务
+- hr365-exp-model 费用管理业务
+- hr365-time-model 时间管理业务
+
+#### HR-PC
+人力资源管理桌面版
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/HR/Client/HR-PC](https://192.168.1.118:1443/svn/hr365/HRCODE/HR/Client/HR-PC)
+
+#### Pay-PC
+薪酬管理桌面版
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Payroll/Client/Pay-PC](https://192.168.1.118:1443/svn/hr365/HRCODE/Payroll/Client/Pay-PC)
+
+#### Exp-PC
+费用管理桌面版
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Exp/Client/Exp-PC](https://192.168.1.118:1443/svn/hr365/HRCODE/Exp/Client/Exp-PC)
+
+#### Time-PC
+时间管理桌面版
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Time/Client/Time-PC](https://192.168.1.118:1443/svn/hr365/HRCODE/Time/Client/Time-PC)
+
+#### Emp-PC
+员工自助桌面版
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Emp/Client/Emp-PC](https://192.168.1.118:1443/svn/hr365/HRCODE/Emp/Client/Emp-PC)
+
+#### Emp-MB
+员工自助手机版
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Emp/Client/Emp-MB](https://192.168.1.118:1443/svn/hr365/HRCODE/Emp/Client/Emp-MB)
+
+#### HR-PM
+平台管理
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/PM/Client/HR-PM](https://192.168.1.118:1443/svn/hr365/HRCODE/PM/Client/HR-PM)
