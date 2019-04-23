@@ -12,5 +12,5 @@
     - 浏览器
     - WebKit JSCore
     - WebView
-    - React Native，详解[官方文档](https://facebook.github.io/react-native/docs/javascript-environment)
+    - React Native，详见[官方文档](https://facebook.github.io/react-native/docs/javascript-environment)
     - 微信小程序
