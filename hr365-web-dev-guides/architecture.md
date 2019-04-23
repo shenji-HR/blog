@@ -11,16 +11,16 @@
 ### 2.2. hr365-ws-api
 网络接口
 
-### 2.3. hr365-basic
-桌面版基础控件
-
-### 2.4. hr365-model
+### 2.3. hr365-model
 每个业务都是一个独立的 npm 包，可以单独发布：
 - hr365-basic-model 通用业务
 - hr365-hr-model 人员管理业务
 - hr365-pay-model 薪酬管理业务
 - hr365-exp-model 费用管理业务
 - hr365-time-model 时间管理业务
+
+### 2.4. hr365-basic
+桌面版基础控件
 
 ### 2.5. HR-PC
 人力资源管理桌面版
