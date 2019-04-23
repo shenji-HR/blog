@@ -6,6 +6,11 @@
 ## 2. Yarn
 包管理器，用来替代 Node 自带的 npm，介绍和安装方法见[官网](https://yarnpkg.com/)。如果想了解使用 yarn 的好处，可以看[这里](https://juejin.im/post/5ab89cc4f265da237506e367)。
 
+将 npm 源设置为公司内网 npm 仓库：
+```bash
+$ npm config set registry http://172.30.3.107:8082/repository/npm_group/
+```
+
 ## 3. Visual Studio Code
 
 [官网](https://code.visualstudio.com)下载安装。
