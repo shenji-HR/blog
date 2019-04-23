@@ -26,7 +26,7 @@
         - 导航方案 [React Navigation](https://reactnavigation.org)
         - svg 渲染方案 [react-native-svg](https://github.com/react-native-community/react-native-svg)
     - 数据流 
-        - [DvaJS](https://dvajs.com)，封装了 [redux](https://github.com/reduxjs/redux)、[redux-saga](https://github.com/redux-saga/redux-saga) 和 [react-router](https://github.com/ReactTraining/react-router)
+        - 与桌面端一样采用 [DvaJS](https://dvajs.com)
     - 网络
         - React Native 内置 [fetch](http://facebook.github.io/react-native/docs/network#using-fetch)
     - 构建
