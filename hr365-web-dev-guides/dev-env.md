@@ -22,3 +22,6 @@ $ npm config set registry http://172.30.3.107:8082/repository/npm_group/
 
 ## 4. Chrome 插件
 - [Redux DevTools Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=zh-CN)
+
+## 5. Windows 用户
+- 建议安装 [cmder](https://cmder.net)，一款 Windows 环境下非常简洁美观易用的 cmd 替代者，它支持了大部分的 Linux 命令
