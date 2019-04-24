@@ -34,7 +34,7 @@
         - [Metro](https://github.com/facebook/metro)，The JavaScript bundler for React Native
 
 ## 2. HR365 前端工程结构
-<img src="../assets/engineering-structure.svg" />
+<img style="width:60%" src="../assets/engineering-structure.png" />
 
 ### 2.1. hr365-util
 工具库
