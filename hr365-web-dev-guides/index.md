@@ -7,4 +7,4 @@
 - TODO: 构建系统概览
 - TODO: 编码风格
 - TODO: 测试
-- TODO: 发布
+- [发布](pub.md)
