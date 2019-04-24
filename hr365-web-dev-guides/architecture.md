@@ -12,7 +12,7 @@
         - [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)，浏览器环境调用的其实是 [GitHub's WHATWG Fetch polyfill](https://github.com/github/fetch)
         - [Strophe.js](http://strophe.im/strophejs/)，基于 WebSocket 实现的 XMPP 库
     - 构建
-        - [Node.js](https://nodejs.org)，现代前端构建系统的核心
+        - [Node.js](https://nodejs.org)，现代前端构建系统的基础
         - [Babel](https://babeljs.io)，js 编译器，将 ES6+ 转译为 ES5
         - [ESLint](https://eslint.org)，用于静态语法检查
         - [webpack](https://webpack.js.org)，打包器，通过构建 [dependency graph](https://webpack.js.org/concepts/dependency-graph/) 将所有 js 源码打包成一个 bundle 文件
