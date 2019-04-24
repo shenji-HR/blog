@@ -39,16 +39,40 @@
 ### 2.1. hr365-util
 工具库
 
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-util](https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-util)
+
 ### 2.2. hr365-ws-api
 网络接口
 
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-ws-api](https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-ws-api)
+
 ### 2.3. hr365-model
 每个业务都是一个独立的 npm 包，可以单独发布：
-- hr365-basic-model 通用业务
-- hr365-hr-model 人员管理业务
-- hr365-pay-model 薪酬管理业务
-- hr365-exp-model 费用管理业务
-- hr365-time-model 时间管理业务
+
+#### 2.3.1. hr365-basic-model
+通用业务
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-basic-model](https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-basic-model)
+
+#### 2.3.2. hr365-hr-model 
+人员管理业务
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-hr-model](https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-hr-model)
+
+#### 2.3.3. hr365-pay-model 
+薪酬管理业务
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-pay-model](https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-pay-model)
+
+#### 2.3.4. hr365-exp-model 
+费用管理业务
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-exp-model](https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-exp-model)
+
+#### 2.3.5. hr365-time-model 
+时间管理业务
+
+[https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-time-model](https://192.168.1.118:1443/svn/hr365/HRCODE/Basic/Client/hr365-model/branches/dev/packages/hr365-time-model)
 
 ### 2.4. hr365-basic
 桌面版基础控件
