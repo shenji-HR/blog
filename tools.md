@@ -25,6 +25,6 @@
 - 主 [Sketch](https://www.sketch.com)，矢量图，画布可以无限扩展；辅 PPT，跨平台，连接线使用方便。
 - [StarUML](http://staruml.io)
 
-## 参考
+## 发现更多工具
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - dva 作者 [@sorrycc](https://github.com/sorrycc) 整理的工具集合
 - [利器](https://liqi.io) - 一个工具分享社区
