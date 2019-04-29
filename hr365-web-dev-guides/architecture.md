@@ -16,7 +16,7 @@
         - [Babel](https://babeljs.io)，js 编译器，将 ES6+ 转译为 ES5
         - [ESLint](https://eslint.org)，用于静态语法检查
         - [webpack](https://webpack.js.org)，打包器，通过构建 [dependency graph](https://webpack.js.org/concepts/dependency-graph/) 将所有 js 源码打包成一个 bundle 文件
-        - [roadhog](https://github.com/sorrycc/roadhog)，可配置 [create-react-app](https://github.com/facebook/create-react-app)，内部基于 [af-webpack](https://github.com/umijs/umi/tree/master/packages/af-webpack)。（注：roadhog 官方已经[不再维护](https://github.com/sorrycc/roadhog/issues/855)，未来我们将迁移至 [UmiJS](https://github.com/umijs/umi)）
+        - [roadhog](https://github.com/sorrycc/roadhog)，替代 [create-react-app](https://github.com/facebook/create-react-app)，内部基于 [af-webpack](https://github.com/umijs/umi/tree/master/packages/af-webpack)。（注：roadhog 官方已经[不再维护](https://github.com/sorrycc/roadhog/issues/855)，未来我们将迁移至 [UmiJS](https://github.com/umijs/umi)）
         - [svgr](https://github.com/smooth-code/svgr)，Transform SVGs into React components
         - [Electron](https://electronjs.org)，用于构建桌面应用。集成了 [Chromium](https://www.chromium.org/Home) 和 [Node.js](https://nodejs.org)，可以简单理解成一种可定制的浏览器，同时允许你调用一些操作系统级的 api，比如 [系统托盘](https://electronjs.org/docs/api/tray)
 - 移动端（iOS 或 Android 环境）
