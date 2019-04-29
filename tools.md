@@ -1,7 +1,7 @@
 # 工具
 
 ## 科学上网
-- ss 服务器
+- ss 服务器（[什么是 ss ?](https://vc2tea.com/whats-shadowsocks/)）
     - 方式一：购买 [AgentNEO](https://agentneo.io) 服务（推荐）
     - 方式二：购买 [Vultr](https://www.vultr.com) 等 vps 自己部署
 - ss 客户端
