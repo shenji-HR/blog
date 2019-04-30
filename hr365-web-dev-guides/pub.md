@@ -1,6 +1,6 @@
 # 发布
 
-## 1. 发布 hr365-ws-api
+## 1. 发布 hr365-ws-api 包
 
 第一步， npm 没有登录过的需要先执行 `npm login -registry=http://172.30.3.107:8082/repository/npm_hosted/`，用户名、密码为自己名字的拼音缩写，例如 jyx；邮箱可以填公司邮箱，例如 yourname@21esn.com
 
