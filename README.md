@@ -50,11 +50,15 @@
 - 安全
 
 # 移动端
-- iOS Native 开发
+- iOS 开发
     - 苹果开发者账号
-    - Objective-C
-    - Swift
-- Android Native 开发
+    - 编程语言：Objective-C、Swift
+    - 构建系统
+        - CocoaPods
+- Android 开发
+    - 编程语言：Java、Kotlin
+    - 构建系统
+        - Gradle
 - 小程序
     - 微信小程序
     - 支付宝小程序
