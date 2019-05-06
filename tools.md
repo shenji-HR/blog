@@ -10,8 +10,7 @@
 
 ## 终端 Terminal
 - macOS
-    - [iTerm2](https://www.iterm2.com)
-    - [oh-my-zsh](https://ohmyz.sh)
+    - [iTerm2](https://www.iterm2.com) + [oh-my-zsh](https://ohmyz.sh)
 - Windows: 
     - [cmder](https://cmder.net) 替代 cmd，支持大部分的 Linux 命令
 
@@ -23,7 +22,7 @@
 
 ## 画图
 - 主 [Sketch](https://www.sketch.com)，矢量图，画布可以无限扩展；辅 PPT，跨平台，连接线使用方便。
-- [StarUML](http://staruml.io)
+- 画标准 UML 用 [StarUML](http://staruml.io)
 
 ## 发现更多工具
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - dva 作者 [@sorrycc](https://github.com/sorrycc) 整理的工具集合
