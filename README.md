@@ -2,6 +2,8 @@
 - [HR365 前端开发指南](hr365-web-dev-guides/index.md)
 - HTML
 - CSS
+    - 标准
+        - [Cascading Style Sheets Level 2 Revision 1](https://www.w3.org/TR/CSS2/)
 - JavaScript
     - [如何学习 JavaScript](how-to-learn-js)
     - 标准
