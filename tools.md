@@ -24,6 +24,9 @@
 - 主 [Sketch](https://www.sketch.com)，矢量图，画布可以无限扩展；辅 PPT，跨平台，连接线使用方便。
 - 画标准 UML 用 [StarUML](http://staruml.io)
 
+## 翻译 / 国际化
+- [i18ns.com](https://i18ns.com)
+
 ## 发现更多工具
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - dva 作者 [@sorrycc](https://github.com/sorrycc) 整理的工具集合
 - [利器](https://liqi.io) - 一个工具分享社区
