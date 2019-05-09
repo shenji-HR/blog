@@ -104,6 +104,16 @@
 - OAuth
 - XMPP
 
+# 运维 DevOps
+- Linux
+- 基础服务搭建
+    - Nignx
+- 数据库
+    - MySQL
+    - Redis
+- 监控
+- 安全
+
 # UI / UX
 - Sketch
 
