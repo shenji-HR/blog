@@ -5,7 +5,7 @@
     - 标准
         - [Cascading Style Sheets Level 2 Revision 1](https://www.w3.org/TR/CSS2/)
 - JavaScript
-    - [如何学习 JavaScript](how-to-learn-js)
+    - [如何学习 JavaScript](how-to-learn-js.md)
     - 标准
         - [ES5.1, ECMA-262 Edition 5.1](https://www.ecma-international.org/ecma-262/5.1/)
         - [ES2015, ECMA-262 6th Edition](https://www.ecma-international.org/ecma-262/6.0/)
