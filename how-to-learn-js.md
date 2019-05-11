@@ -6,12 +6,12 @@
 
 ## 进阶
 - You Don't Know JS 系列，建议直接读英文原版
-  - [Scope & Closures](https://book.douban.com/subject/25883834/)（重点推荐）
-  - [this & Object Prototypes](https://book.douban.com/subject/25986786/)（重点推荐）
-  - [Types & Grammar](https://book.douban.com/subject/26333594/)
-  - [Async & Performance](https://book.douban.com/subject/26345789/)
-  - [Up & Going](https://book.douban.com/subject/26383331/)
-  - [ES6 & Beyond](https://book.douban.com/subject/26345790/)
+  - [Scope & Closures](https://book.douban.com/subject/25883834/), 2014（重点推荐）
+  - [this & Object Prototypes](https://book.douban.com/subject/25986786/), 2014（重点推荐）
+  - [Types & Grammar](https://book.douban.com/subject/26333594/), 2015
+  - [Async & Performance](https://book.douban.com/subject/26345789/), 2015
+  - [Up & Going](https://book.douban.com/subject/26383331/), 2015
+  - [ES6 & Beyond](https://book.douban.com/subject/26345790/), 2015
   - 中文版
     - [你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/)
     - [你不知道的JavaScript（中卷）](https://book.douban.com/subject/26854244/)
