@@ -5,19 +5,19 @@
 - [阮一峰的 ECMAScript 6 入门教程](http://es6.ruanyifeng.com)
 
 ## 进阶
-- You Don't Know JS 系列，建议直接读英文原版
-  - [Scope & Closures](https://book.douban.com/subject/25883834/), 2014（重点推荐）
-  - [this & Object Prototypes](https://book.douban.com/subject/25986786/), 2014（重点推荐）
-  - [Types & Grammar](https://book.douban.com/subject/26333594/), 2015
-  - [Async & Performance](https://book.douban.com/subject/26345789/), 2015
-  - [Up & Going](https://book.douban.com/subject/26383331/), 2015
-  - [ES6 & Beyond](https://book.douban.com/subject/26345790/), 2015
+- 《You Don't Know JS 》系列，建议直接读英文原版
+  - [《Scope & Closures》](https://book.douban.com/subject/25883834/), 2014（重点推荐）
+  - [《this & Object Prototypes》](https://book.douban.com/subject/25986786/), 2014（重点推荐）
+  - [《Types & Grammar》](https://book.douban.com/subject/26333594/), 2015
+  - [《Async & Performance》](https://book.douban.com/subject/26345789/), 2015
+  - [《Up & Going》](https://book.douban.com/subject/26383331/), 2015
+  - [《ES6 & Beyond》](https://book.douban.com/subject/26345790/), 2015
   - 中文版
-    - [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/)
-    - [你不知道的 JavaScript（中卷）](https://book.douban.com/subject/26854244/)
-    - [你不知道的 JavaScript（下卷）](https://book.douban.com/subject/27620408/)
-- [JavaScript 高级程序设计（第3版）](https://book.douban.com/subject/10546125/), 2012
-- [JavaScript 语言精粹](https://book.douban.com/subject/3590768/), 2009
+    - [《你不知道的 JavaScript（上卷）》](https://book.douban.com/subject/26351021/)
+    - [《你不知道的 JavaScript（中卷）》](https://book.douban.com/subject/26854244/)
+    - [《你不知道的 JavaScript（下卷）》](https://book.douban.com/subject/27620408/)
+- [《JavaScript 高级程序设计（第3版）》](https://book.douban.com/subject/10546125/), 2012
+- [《JavaScript 语言精粹》](https://book.douban.com/subject/3590768/), 2009
 
 ## 专家
 - 阅读标准定义文档
