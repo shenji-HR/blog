@@ -13,9 +13,9 @@
   - [Up & Going](https://book.douban.com/subject/26383331/), 2015
   - [ES6 & Beyond](https://book.douban.com/subject/26345790/), 2015
   - 中文版
-    - [你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/)
-    - [你不知道的JavaScript（中卷）](https://book.douban.com/subject/26854244/)
-    - [你不知道的JavaScript（下卷）](https://book.douban.com/subject/27620408/)
+    - [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/)
+    - [你不知道的 JavaScript（中卷）](https://book.douban.com/subject/26854244/)
+    - [你不知道的 JavaScript（下卷）](https://book.douban.com/subject/27620408/)
 - [JavaScript 高级程序设计（第3版）](https://book.douban.com/subject/10546125/), 2012
 - [JavaScript 语言精粹](https://book.douban.com/subject/3590768/), 2009
 
