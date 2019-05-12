@@ -43,6 +43,8 @@
 - 浏览器原理
     - 【必读】[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) by Tali Garsiel & Paul Irish, 2011
 - 安全
+    - 跨站脚本攻击 XSS
+    - 跨站请求伪造 CSRF
 
 # 移动端
 - iOS 开发
