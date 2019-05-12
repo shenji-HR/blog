@@ -44,7 +44,9 @@
     - 【必读】[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) by Tali Garsiel & Paul Irish, 2011
 - 安全
     - 跨站脚本攻击 XSS
+        - [前端安全系列（一）：如何防止XSS攻击？](https://juejin.im/post/5bad9140e51d450e935c6d64) by 美团技术团队 2018-09
     - 跨站请求伪造 CSRF
+        - [前端安全系列（二）：如何防止CSRF攻击？](https://juejin.im/post/5bc009996fb9a05d0a055192) by 美团技术团队 2018-10
 
 # 移动端
 - iOS 开发
