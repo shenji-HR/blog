@@ -26,6 +26,7 @@
             - 命令解析: [commander](https://github.com/tj/commander.js) / [yargs](https://github.com/yargs/yargs)
             - ...
     - npm / yarn
+        - [版本号管理策略 && 使用 npm 管理项目版本号](http://buzhundong.com/post/版本号管理策略-使用npm管理项目版本号.html)
     - Babel
     - ESLint
     - Bundler
