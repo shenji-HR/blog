@@ -111,6 +111,7 @@
 - Linux
 - 基础服务搭建
     - Nignx
+    - [Nexus OSS](https://www.sonatype.com/nexus-repository-oss)
 - 数据库
     - MySQL
     - Redis
