@@ -1,6 +1,6 @@
 # 团队协作
 - svn
-    - [svn 工作流](http://solnotes.com/2015/05/04/svn-workflow-management/)
+    - [svn 工作流管理个人实践](http://solnotes.com/2015/05/04/svn-workflow-management/) by sol_catdog 2015-05
 - OKR
 
 # 前端
