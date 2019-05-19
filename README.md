@@ -6,6 +6,7 @@
 # 前端
 - [HR365 前端开发指南](hr365-web-dev-guides/index.md)
 - HTML
+    - [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/)
 - CSS
     - 标准
         - [Cascading Style Sheets Level 2 Revision 1](https://www.w3.org/TR/CSS2/)
