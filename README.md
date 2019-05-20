@@ -1,12 +1,35 @@
+# HR365
+- [HR365 前端开发指南](hr365-web-dev-guides/index.md)
+
 # 团队协作
-- svn
-    - [svn 工作流管理个人实践](http://solnotes.com/2015/05/04/svn-workflow-management/) by sol_catdog 2015-05
+- Subversion（简称 svn），集中式版本控制工具
+    - 官网: [http://subversion.apache.org](http://subversion.apache.org)
+    - svn server
+        - [VisualSVN](https://www.visualsvn.com/server/) for Windows
+    - svn client
+        - [TortoiseSVN](https://tortoisesvn.net) for Windows，免费
+        - [Cornerstone](https://cornerstone.assembla.com) for macOS，付费
+        - [SmartSVN](https://www.smartsvn.com) for macOS, Windows and Linux，付费
+    - diff & merge tool
+        - [Beyond Compare](https://www.scootersoftware.com)，付费
+        - [diffmerge](https://sourcegear.com/diffmerge/) for macOS, Windows and Linux，免费
+    - 核心概念
+        - 签出 checkout，将服务器代码下载到本地，同时带版本控制信息（.svn 文件）
+        - 导出 export，将服务器代码备份到本地，不带版本控制信息
+        - 提交 commit，将修改的代码上传到服务器
+        - 更新 update，将别人修改的代码下载到本地
+        - 合并 merge
+        - 冲突 conflict
+    - 工作流
+        - [svn 工作流管理个人实践](http://solnotes.com/2015/05/04/svn-workflow-management/) by sol_catdog 2015-05
 - OKR
 
-# 前端
-- [HR365 前端开发指南](hr365-web-dev-guides/index.md)
+# 前端开发
 - HTML
-    - [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/)
+    - 标准
+        - HTML4.1
+        - XHTML
+        - [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/)
 - CSS
     - 标准
         - [Cascading Style Sheets Level 2 Revision 1](https://www.w3.org/TR/CSS2/)
@@ -55,7 +78,7 @@
     - 跨站请求伪造 CSRF
         - [前端安全系列（二）：如何防止CSRF攻击？](https://juejin.im/post/5bc009996fb9a05d0a055192) by 美团技术团队 2018-10
 
-# 移动端
+# 移动端开发
 - iOS 开发
     - 苹果开发者账号
     - 编程语言：Objective-C、Swift
@@ -89,6 +112,10 @@
     - Chameleon
     - Taro
 
+# 服务端开发
+- Java
+- ...
+
 # 网络
 - TCP
 - SSL / TLS
@@ -119,22 +146,26 @@
 - 监控
 - 安全
 
-# 人工智能
-- 基础数学
-    - 线性代数
-    - 概率论
-    - 数理统计
-    - 信息论
-- 方法论
-    - 机器学习
-    - 深度学习
-    - 神经网络
-- 应用场景
-    - 计算机视觉
-    - 自然语言分析
-
 # UI / UX
 - Sketch
+- 设计系统 Design System
+
+# 前沿
+- 人工智能
+    - 基础数学
+        - 线性代数
+        - 概率论
+        - 数理统计
+        - 信息论
+    - 方法论
+        - 机器学习
+        - 深度学习
+        - 神经网络
+    - 应用场景
+        - 计算机视觉
+        - 自然语言分析
+- 区块链
 
 # 资料
 - [工具](tools.md)
+- [收录高质量技术博客](blogs.md)
