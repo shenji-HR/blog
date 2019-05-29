@@ -10,7 +10,7 @@
 - [Ant Design 知乎专栏](https://zhuanlan.zhihu.com/antdesign)
 - [小胡子哥的博客](https://www.barretlee.com/entry/)
 
-## 服务端
+## 后端
 - [纯洁的微笑](http://ityouknow.com)
 
 ## 其他
