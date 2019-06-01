@@ -29,5 +29,5 @@ $ npm config set registry http://172.30.3.107:8082/repository/npm_group/
 - 建议安装 [cmder](https://cmder.net)，一款 Windows 环境下非常简洁美观易用的 cmd 替代者，它支持了大部分的 Linux 命令
 
 # FAQ
-# 执行 `yarn add electron --dev` 速度很慢？
+## 执行 `yarn add electron --dev` 速度很慢？
 - macOS 下，执行 `export ELECTRON_MIRROR="https://npm.taobao.org/mirrors/electron/"` 更换为淘宝的下载源
