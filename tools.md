@@ -20,6 +20,9 @@
 ## 远程桌面
 - [TeamViewer](https://www.teamviewer.com/cn/)
 
+## 云盘
+- [坚果云](https://www.jianguoyun.com)
+
 ## 画图
 - 主 [Sketch](https://www.sketch.com)，矢量图，画布可以无限扩展；辅 PPT，跨平台，连接线使用方便。
 - 画标准 UML 用 [StarUML](http://staruml.io)
