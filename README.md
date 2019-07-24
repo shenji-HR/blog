@@ -36,6 +36,8 @@
 - JavaScript
     - [如何学习 JavaScript](how-to-learn-js.md)
     - [JavaScript 运行环境](js-env.md)
+    - [数据类型](js-type.md)
+    - [立即执行函数 IIEF](js-iief.md)
 - DOM
 - React
     - [React 最佳实践](react-best-practices.md)
