@@ -1,14 +1,16 @@
 # 技术博客
 
+> ⭐⭐⭐⭐⭐ 表示重点推荐
+
 ## 综合
-- （重点推荐）[酷壳](https://coolshell.cn)，博主陈皓（网名：左耳朵耗子），资深技术专家，骨灰级程序员。同时也推荐他在极客时间的付费专栏[《左耳听风》](https://time.geekbang.org/column/intro/48)。
+- ⭐⭐⭐⭐⭐[酷壳](https://coolshell.cn)，博主陈皓（左耳朵耗子），资深技术专家，骨灰级程序员。同时也推荐他在极客时间的付费专栏[《左耳听风》](https://time.geekbang.org/column/intro/48)。
 - [MacTalk By 池建强](http://macshuo.com)
 - [美团技术团队](https://tech.meituan.com)
 - [携程技术中心](https://zhuanlan.zhihu.com/ctriptech)
 
 ## 前端
-- （重点推荐）[Dan Abramov](https://overreacted.io)，redux 作者，react 团队核心成员
-- （重点推荐）[sorrycc](https://github.com/sorrycc/blog)，dva 作者
+- ⭐⭐⭐⭐⭐[Dan Abramov](https://overreacted.io)，redux 作者，react 团队核心成员
+- ⭐⭐⭐⭐⭐[sorrycc](https://github.com/sorrycc/blog)，dva 作者
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [饿了么前端](https://zhuanlan.zhihu.com/ElemeFE)
 - [淘宝 FED](https://fed.taobao.org)
@@ -16,6 +18,9 @@
 - [腾讯 Alloy Team](http://www.alloyteam.com)
 - [京东凹凸实验室](https://aotu.io/index.html)
 - [小胡子哥](https://www.barretlee.com/entry/)
+- [fi3ework](https://github.com/fi3ework/blog)，[react-live-route](https://github.com/fi3ework/react-live-route) 作者
+- [木易杨前端进阶 · yygmind](https://muyiy.cn/blog/)
+- [pigcan](https://github.com/pigcan/blog)
 
 ## 移动端
 - 微信移动客户端开发团队 WeMobileDev 公众号

@@ -1,4 +1,4 @@
-# Electron 学习资料汇总
+# Electron 学习资料
 
 ## 官方
 - [electronjs.org](https://electronjs.org)
