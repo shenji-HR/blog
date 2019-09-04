@@ -17,8 +17,9 @@
 - [蚂蚁金服 Ant Design](https://zhuanlan.zhihu.com/antdesign)
 - [腾讯 Alloy Team](http://www.alloyteam.com)
 - [京东凹凸实验室](https://aotu.io/index.html)
+- [百度 FEX](http://fex.baidu.com/)
 - [小胡子哥](https://www.barretlee.com/entry/)
-- [fi3ework](https://github.com/fi3ework/blog)，[react-live-route](https://github.com/fi3ework/react-live-route) 作者
+- [fi3ework](https://github.com/fi3ework/blog)
 - [木易杨前端进阶 · yygmind](https://muyiy.cn/blog/)
 - [pigcan](https://github.com/pigcan/blog)
 
