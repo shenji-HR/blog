@@ -12,11 +12,13 @@
 
 第五步，app 工程执行 `yarn add @shenji/hr365-basic` 升级依赖。
 
-## 2. 发布 @shenji/hr365-basic 包
-cd 到 `Client/scripts` 目录下，执行 `sh pub-hr365-basic.sh` 脚本。
-
-## 3. 发布 @shenji/hr365-basic-model 包
+## 2. 发布 @shenji/hr365-basic-model 包
 cd 到 `Client/scripts` 目录下，执行 `sh pub-hr365-basic-model.sh` 脚本。注：由于依赖关系，发布 @shenji/hr365-basic-model 的同时，也会发布 @shenji/hr365-basic。
+
+> 其他 model 包与 @shenji/hr365-basic-model 包类似
+
+## 3. 发布 @shenji/hr365-basic 包
+cd 到 `Client/scripts` 目录下，执行 `sh pub-hr365-basic.sh` 脚本。
 
 ## 附：@shenji 域下包依赖关系概览
 - @shenji/hr365-basic
