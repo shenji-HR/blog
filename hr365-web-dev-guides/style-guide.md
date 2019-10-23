@@ -9,6 +9,7 @@
     - 细体 Light 300
     - 级细 Thin 100
 4. 字体颜色（color）：
+    - 纯黑 Black #000
     - 标题 Title: rgba(0,0,0,.85)
     - 主要文本 Primary Text: rgba(0,0,0,.65)
     - 次要文本 Secondary Text: rgba(0,0,0,.45)
